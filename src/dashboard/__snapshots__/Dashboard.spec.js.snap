@@ -21,6 +21,7 @@ Array [
   >
     <button
       className="toggle-btn"
+      data-testid="lockButton"
       disabled={true}
       onClick={[Function]}
     >
@@ -28,6 +29,7 @@ Array [
     </button>
     <button
       className="toggle-btn"
+      data-testid="closeButton"
       disabled={false}
       onClick={[Function]}
     >
